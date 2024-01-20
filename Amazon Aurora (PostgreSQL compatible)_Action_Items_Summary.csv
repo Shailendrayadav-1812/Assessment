@@ -1,0 +1,5 @@
+Schema,Action item,Number of occurrences,Learning curve efforts,Efforts to convert an occurrence of the action item,Action item description,Recommended action
+pubs.dbo,7674,1,0.0,0.5,DMS SC can't convert unknown clauses,Convert your source code manually.
+pubs.dbo,7681,1,0.1,0.1,PostgreSQL doesn't support clustered indexes,Revise your code to use non-clustered indexes and try again.
+pubs.dbo,7795,24,0.0,0.01,"In PostgreSQL, string operations are case sensitive",Review the converted code to make sure that it compares strings correctly.
+pubs.dbo,7807,2,40.0,0.5,DMS SC can't convert the transaction management command,Convert your source code manually.
